@@ -24,7 +24,7 @@ tags:
 description: Civitas Resources is an independent exploration and production company focused on developing oil and natural gas resources in Colorado's Denver-Julesburg Basin and the Permian Basin. The company emphasizes carbon-neutral operations and sustainable production practices. Civitas Resources does not currently publish a public developer portal or API. The company has announced a merger with SM Energy Company.
 created: '2026-05-04'
 modified: '2026-05-04'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 common:
   - type: DomainSecurity
     url: security/civitas-resources-domain-security.yml
